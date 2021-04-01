@@ -1,0 +1,16 @@
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\bin\Debug\net5.0\lab1.2.exe
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\bin\Debug\net5.0\lab1.2.deps.json
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\bin\Debug\net5.0\lab1.2.runtimeconfig.json
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\bin\Debug\net5.0\lab1.2.runtimeconfig.dev.json
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\bin\Debug\net5.0\lab1.2.dll
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\bin\Debug\net5.0\ref\lab1.2.dll
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\bin\Debug\net5.0\lab1.2.pdb
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\lab1.2.csprojAssemblyReference.cache
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\lab1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\lab1.2.AssemblyInfoInputs.cache
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\lab1.2.AssemblyInfo.cs
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\lab1.2.csproj.CoreCompileInputs.cache
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\lab1.2.dll
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\ref\lab1.2.dll
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\lab1.2.pdb
+C:\Users\ilyag\Desktop\навчання\OOn\22\lab1\lab1.2\lab1.2\obj\Debug\net5.0\lab1.2.genruntimeconfig.cache
